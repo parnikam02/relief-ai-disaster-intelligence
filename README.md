@@ -27,7 +27,7 @@ Relief AI transforms that fragmented information into a real-time, intelligent e
 
 ---
 
-# Problem Statement — Smart Resource Allocation (Data-Driven Innovation)
+# Problem Statement — Smart Resource Allocation (Data-Driven Volunteer Coordination for Social Impact)
 
 ## Challenge
 Critical community needs often remain hidden because information is dispersed and unstructured.
